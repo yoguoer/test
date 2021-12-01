@@ -1,2 +1,2 @@
-<>php
+<>php222
 phpinfo();
