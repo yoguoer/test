@@ -1,2 +1,0 @@
-<>php222
-phpinfo();
